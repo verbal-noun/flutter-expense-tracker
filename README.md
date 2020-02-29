@@ -13,5 +13,5 @@ Basic steps of adding an expense:
  2. Enter description and amount
  3. Choose a date 
  
-outube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/m_M_vbi9_WI)
+outube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=m_M_vbi9_WI&feature=youtu.be)
 
