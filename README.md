@@ -13,7 +13,5 @@ Basic steps of adding an expense:
  2. Enter description and amount
  3. Choose a date 
  
- ![Adding a transaction](assets/images/Adding-trans.png)
- 
- ![Choosing a Date](assets/images/Data_picker.png)
+outube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/m_M_vbi9_WI)
 
