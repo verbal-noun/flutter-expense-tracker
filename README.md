@@ -8,3 +8,12 @@ The homepage displays list of transactions made throughout the calendar year and
 
 ![IDE Screencap](assets/images/Expense_tracker_ide.png)
 
+Basic steps of adding an expense:
+ 1. Click raised add button or navbar 'add' icon
+ 2. Enter description and amount
+ 3. Choose a date 
+ 
+ ![Adding a transaction](assets/images/Adding-trans.png)
+ 
+ ![Choosing a Date](assets/images/Data_picker.png)
+
