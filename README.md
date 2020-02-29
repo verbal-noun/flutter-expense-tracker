@@ -12,6 +12,4 @@ Basic steps of adding an expense:
  1. Click raised add button or navbar 'add' icon
  2. Enter description and amount
  3. Choose a date 
- 
-outube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=m_M_vbi9_WI&feature=youtu.be)
-
+ [![YouTube videos](http://img.youtube.com/vi/m_M_vbi9_WI/0.jpg)](http://www.youtube.com/watch?v=m_M_vbi9_WI)
